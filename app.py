@@ -9,3 +9,5 @@ st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 st.subheader("Hi, I am Dinesh :wave:")
 st.title("A DevOps engineer From India")
 st.write("I am passionate about finding ways to use Python and linux to be more efficient and effective in DevOps Journey")
+st.write("If you want to check my linkedin profile please click here"
+         print("https://shorturl.at/N6Hko")
